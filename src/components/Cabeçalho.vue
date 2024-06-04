@@ -1,7 +1,6 @@
-<!-- Cabeçalho.vue -->
 <template>
-  <header>
-    <h1>cabeçalho</h1>
+  <header class="cabeçalho">
+    <h1>{{ titulo }}</h1>
   </header>
 </template>
 
