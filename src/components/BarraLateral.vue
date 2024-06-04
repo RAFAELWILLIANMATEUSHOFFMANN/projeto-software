@@ -1,7 +1,6 @@
-<!-- BarraLateral.vue -->
 <template>
-  <aside>
-    <h2>barra lateral</h2>
+  <aside class="barra-lateral">
+    <h2>{{ titulo }}</h2>
   </aside>
 </template>
 
